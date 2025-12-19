@@ -61,3 +61,6 @@ outputs/
 # Temporary and test files
 debug.*
 test.*
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
